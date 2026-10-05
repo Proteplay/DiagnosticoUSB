@@ -1,0 +1,82 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Diagnóstico USB" Height="540" Width="780"
+        WindowStartupLocation="CenterScreen">
+    <TabControl Margin="10">
+
+        <TabItem Header="Diagnóstico">
+            <Grid Margin="10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="BtnRun" Content="Ejecutar diagnóstico"
+                            Padding="16,8" Click="BtnRun_Click"/>
+                    <ProgressBar x:Name="Progress" Width="150" Height="12"
+                                 IsIndeterminate="True" Visibility="Collapsed" Margin="12,0,0,0"/>
+                </StackPanel>
+
+                <ScrollViewer Grid.Row="1" Margin="0,12,0,0" VerticalScrollBarVisibility="Auto">
+                    <ItemsControl x:Name="ResultsList">
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <Border BorderBrush="LightGray" BorderThickness="1"
+                                        CornerRadius="6" Margin="0,0,0,8">
+                                    <Grid>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="8"/>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="Auto"/>
+                                        </Grid.ColumnDefinitions>
+
+                                        <Border Background="{Binding Brush}" CornerRadius="6,0,0,6"/>
+
+                                        <StackPanel Grid.Column="1" Margin="12,8">
+                                            <TextBlock Text="{Binding Name}" FontWeight="Bold" FontSize="15"/>
+                                            <TextBlock Text="{Binding Message}" TextWrapping="Wrap"/>
+                                        </StackPanel>
+
+                                        <Button Grid.Column="2" Content="Solucionar" Margin="8"
+                                                Padding="14,6" VerticalAlignment="Center"
+                                                Visibility="{Binding FixVisibility}"
+                                                Tag="{Binding}" Click="BtnFix_Click"/>
+                                    </Grid>
+                                </Border>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </ScrollViewer>
+
+                <TextBlock x:Name="StatusText" Grid.Row="2" Margin="0,8,0,0" Foreground="Gray"/>
+            </Grid>
+        </TabItem>
+
+        <TabItem Header="Historial">
+            <Grid Margin="10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Button Content="Actualizar" HorizontalAlignment="Left"
+                        Padding="16,8" Click="BtnRefresh_Click"/>
+
+                <ListView x:Name="HistorialList" Grid.Row="1" Margin="0,12,0,0">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="#" Width="50" DisplayMemberBinding="{Binding Id}"/>
+                            <GridViewColumn Header="Fecha" Width="150" DisplayMemberBinding="{Binding Fecha}"/>
+                            <GridViewColumn Header="Equipo" Width="150" DisplayMemberBinding="{Binding Dispositivo}"/>
+                            <GridViewColumn Header="Resultado" Width="250" DisplayMemberBinding="{Binding Resultado}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </Grid>
+        </TabItem>
+
+    </TabControl>
+</Window>

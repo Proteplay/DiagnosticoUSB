@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9D5F64-00BF-7D07-B9BF-7E6C60996CF1}|WpfApp\\WpfApp.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F9D5F64-00BF-7D07-B9BF-7E6C60996CF1}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9D5F64-00BF-7D07-B9BF-7E6C60996CF1}|WpfApp\\WpfApp.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9D5F64-00BF-7D07-B9BF-7E6C60996CF1}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9D5F64-00BF-7D07-B9BF-7E6C60996CF1}|WpfApp\\WpfApp.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F9D5F64-00BF-7D07-B9BF-7E6C60996CF1}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9D5F64-00BF-7D07-B9BF-7E6C60996CF1}|WpfApp\\WpfApp.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\wpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9D5F64-00BF-7D07-B9BF-7E6C60996CF1}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C393C39E-434B-21C1-6C56-7AC4E694B8B1}|TestProject\\TestProject.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\testproject\\repositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C393C39E-434B-21C1-6C56-7AC4E694B8B1}|TestProject\\TestProject.csproj|solutionrelative:testproject\\repositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C513430-91FF-408C-A316-2F3E9359CF39}|ConsoleApp\\DiagnosticoUSB.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\consoleapp\\consoleapp.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1C513430-91FF-408C-A316-2F3E9359CF39}|ConsoleApp\\DiagnosticoUSB.csproj|solutionrelative:consoleapp\\consoleapp.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61981120-DBA9-D43E-0CAD-3633DF016C55}|DataLibrary\\DataLibrary.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\datalibrary\\diagnosticorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61981120-DBA9-D43E-0CAD-3633DF016C55}|DataLibrary\\DataLibrary.csproj|solutionrelative:datalibrary\\diagnosticorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61981120-DBA9-D43E-0CAD-3633DF016C55}|DataLibrary\\DataLibrary.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\datalibrary\\diagnosticocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61981120-DBA9-D43E-0CAD-3633DF016C55}|DataLibrary\\DataLibrary.csproj|solutionrelative:datalibrary\\diagnosticocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61981120-DBA9-D43E-0CAD-3633DF016C55}|DataLibrary\\DataLibrary.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\datalibrary\\entities\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61981120-DBA9-D43E-0CAD-3633DF016C55}|DataLibrary\\DataLibrary.csproj|solutionrelative:datalibrary\\entities\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61981120-DBA9-D43E-0CAD-3633DF016C55}|DataLibrary\\DataLibrary.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\datalibrary\\entities\\diagnostico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61981120-DBA9-D43E-0CAD-3633DF016C55}|DataLibrary\\DataLibrary.csproj|solutionrelative:datalibrary\\entities\\diagnostico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61981120-DBA9-D43E-0CAD-3633DF016C55}|DataLibrary\\DataLibrary.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\datalibrary\\entities\\plandiagnostico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61981120-DBA9-D43E-0CAD-3633DF016C55}|DataLibrary\\DataLibrary.csproj|solutionrelative:datalibrary\\entities\\plandiagnostico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61981120-DBA9-D43E-0CAD-3633DF016C55}|DataLibrary\\DataLibrary.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\datalibrary\\entities\\dispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61981120-DBA9-D43E-0CAD-3633DF016C55}|DataLibrary\\DataLibrary.csproj|solutionrelative:datalibrary\\entities\\dispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C513430-91FF-408C-A316-2F3E9359CF39}|ConsoleApp\\DiagnosticoUSB.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C513430-91FF-408C-A316-2F3E9359CF39}|ConsoleApp\\DiagnosticoUSB.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C393C39E-434B-21C1-6C56-7AC4E694B8B1}|TestProject\\TestProject.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\testproject\\cleartempfixtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C393C39E-434B-21C1-6C56-7AC4E694B8B1}|TestProject\\TestProject.csproj|solutionrelative:testproject\\cleartempfixtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BB9982-34F4-4650-C65C-1A7412177E46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\classlibrary\\cleartempfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32BB9982-34F4-4650-C65C-1A7412177E46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\cleartempfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BB9982-34F4-4650-C65C-1A7412177E46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\classlibrary\\ifix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32BB9982-34F4-4650-C65C-1A7412177E46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\ifix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BB9982-34F4-4650-C65C-1A7412177E46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\classlibrary\\diskcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32BB9982-34F4-4650-C65C-1A7412177E46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\diskcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C513430-91FF-408C-A316-2F3E9359CF39}|ConsoleApp\\DiagnosticoUSB.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\consoleapp\\diagnosticousb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C513430-91FF-408C-A316-2F3E9359CF39}|ConsoleApp\\DiagnosticoUSB.csproj|solutionrelative:consoleapp\\diagnosticousb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BB9982-34F4-4650-C65C-1A7412177E46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\classlibrary\\idiagnosticcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32BB9982-34F4-4650-C65C-1A7412177E46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\idiagnosticcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C393C39E-434B-21C1-6C56-7AC4E694B8B1}|TestProject\\TestProject.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C393C39E-434B-21C1-6C56-7AC4E694B8B1}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C393C39E-434B-21C1-6C56-7AC4E694B8B1}|TestProject\\TestProject.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\testproject\\diskchecktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C393C39E-434B-21C1-6C56-7AC4E694B8B1}|TestProject\\TestProject.csproj|solutionrelative:testproject\\diskchecktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BB9982-34F4-4650-C65C-1A7412177E46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\classlibrary\\diagnosticrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32BB9982-34F4-4650-C65C-1A7412177E46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\diagnosticrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BB9982-34F4-4650-C65C-1A7412177E46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\classlibrary\\ramcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32BB9982-34F4-4650-C65C-1A7412177E46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\ramcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BB9982-34F4-4650-C65C-1A7412177E46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\classlibrary\\classlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32BB9982-34F4-4650-C65C-1A7412177E46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\classlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C393C39E-434B-21C1-6C56-7AC4E694B8B1}|TestProject\\TestProject.csproj|c:\\users\\jesus\\desktop\\2dam\\proyecto\\programa\\diagnosticousb\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C393C39E-434B-21C1-6C56-7AC4E694B8B1}|TestProject\\TestProject.csproj|solutionrelative:testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\TestProject\\RepositoryTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\RepositoryTests.cs",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\TestProject\\RepositoryTests.cs",
+              "RelativeToolTip": "TestProject\\RepositoryTests.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T07:36:33.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\WpfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\WpfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAcwG4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T06:46:31.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\WpfApp\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\App.xaml",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\WpfApp\\App.xaml",
+              "RelativeToolTip": "WpfApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-05T07:47:21.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DiagnosticoContext.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\DataLibrary\\DiagnosticoContext.cs",
+              "RelativeDocumentMoniker": "DataLibrary\\DiagnosticoContext.cs",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\DataLibrary\\DiagnosticoContext.cs",
+              "RelativeToolTip": "DataLibrary\\DiagnosticoContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T07:27:30.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\DataLibrary\\Entities\\Error.cs",
+              "RelativeDocumentMoniker": "DataLibrary\\Entities\\Error.cs",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\DataLibrary\\Entities\\Error.cs",
+              "RelativeToolTip": "DataLibrary\\Entities\\Error.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T07:27:00.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Diagnostico.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\DataLibrary\\Entities\\Diagnostico.cs",
+              "RelativeDocumentMoniker": "DataLibrary\\Entities\\Diagnostico.cs",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\DataLibrary\\Entities\\Diagnostico.cs",
+              "RelativeToolTip": "DataLibrary\\Entities\\Diagnostico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T07:26:42.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\WpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\WpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-05T06:46:32.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\WpfApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\WpfApp\\App.xaml.cs",
+              "RelativeToolTip": "WpfApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T07:47:07.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DiagnosticoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\DataLibrary\\DiagnosticoRepository.cs",
+              "RelativeDocumentMoniker": "DataLibrary\\DiagnosticoRepository.cs",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\DataLibrary\\DiagnosticoRepository.cs",
+              "RelativeToolTip": "DataLibrary\\DiagnosticoRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T07:27:53.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleApp.csproj",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\ConsoleApp\\ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp\\ConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\ConsoleApp\\ConsoleApp.csproj",
+              "RelativeToolTip": "ConsoleApp\\ConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-05T07:38:10.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlanDiagnostico.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\DataLibrary\\Entities\\PlanDiagnostico.cs",
+              "RelativeDocumentMoniker": "DataLibrary\\Entities\\PlanDiagnostico.cs",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\DataLibrary\\Entities\\PlanDiagnostico.cs",
+              "RelativeToolTip": "DataLibrary\\Entities\\PlanDiagnostico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T07:26:29.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dispositivo.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\DataLibrary\\Entities\\Dispositivo.cs",
+              "RelativeDocumentMoniker": "DataLibrary\\Entities\\Dispositivo.cs",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\DataLibrary\\Entities\\Dispositivo.cs",
+              "RelativeToolTip": "DataLibrary\\Entities\\Dispositivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T07:26:09.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T06:45:50.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClearTempFixTests.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\TestProject\\ClearTempFixTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\ClearTempFixTests.cs",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\TestProject\\ClearTempFixTests.cs",
+              "RelativeToolTip": "TestProject\\ClearTempFixTests.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T07:08:59.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClearTempFix.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\ClassLibrary\\ClearTempFix.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\ClearTempFix.cs",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\ClassLibrary\\ClearTempFix.cs",
+              "RelativeToolTip": "ClassLibrary\\ClearTempFix.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T07:07:38.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFix.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\ClassLibrary\\IFix.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\IFix.cs",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\ClassLibrary\\IFix.cs",
+              "RelativeToolTip": "ClassLibrary\\IFix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T07:07:18.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DiskCheck.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\ClassLibrary\\DiskCheck.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\DiskCheck.cs",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\ClassLibrary\\DiskCheck.cs",
+              "RelativeToolTip": "ClassLibrary\\DiskCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T07:02:57.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DiagnosticoUSB.csproj",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\ConsoleApp\\DiagnosticoUSB.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp\\DiagnosticoUSB.csproj",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\ConsoleApp\\DiagnosticoUSB.csproj",
+              "RelativeToolTip": "ConsoleApp\\DiagnosticoUSB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-05T06:51:16.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDiagnosticCheck.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\ClassLibrary\\IDiagnosticCheck.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\IDiagnosticCheck.cs",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\ClassLibrary\\IDiagnosticCheck.cs",
+              "RelativeToolTip": "ClassLibrary\\IDiagnosticCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T06:48:34.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TestProject.csproj",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\TestProject\\TestProject.csproj",
+              "RelativeDocumentMoniker": "TestProject\\TestProject.csproj",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\TestProject\\TestProject.csproj",
+              "RelativeToolTip": "TestProject\\TestProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-05T06:52:36.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DiskCheckTests.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\TestProject\\DiskCheckTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\DiskCheckTests.cs",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\TestProject\\DiskCheckTests.cs",
+              "RelativeToolTip": "TestProject\\DiskCheckTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T07:05:06.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DiagnosticRunner.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\ClassLibrary\\DiagnosticRunner.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\DiagnosticRunner.cs",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\ClassLibrary\\DiagnosticRunner.cs",
+              "RelativeToolTip": "ClassLibrary\\DiagnosticRunner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T07:03:48.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RamCheck.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\ClassLibrary\\RamCheck.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\RamCheck.cs",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\ClassLibrary\\RamCheck.cs",
+              "RelativeToolTip": "ClassLibrary\\RamCheck.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T06:49:39.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClassLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\ClassLibrary\\ClassLibrary.csproj",
+              "RelativeDocumentMoniker": "ClassLibrary\\ClassLibrary.csproj",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\ClassLibrary\\ClassLibrary.csproj",
+              "RelativeToolTip": "ClassLibrary\\ClassLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-05T06:48:12.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\TestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\jesus\\Desktop\\2DAM\\Proyecto\\programa\\DiagnosticoUSB\\TestProject\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T06:46:13.865Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

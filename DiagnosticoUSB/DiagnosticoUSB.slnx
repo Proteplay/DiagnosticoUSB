@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/App/">
+    <Project Path="WpfApp/WpfApp.csproj" />
+  </Folder>
+  <Folder Name="/Cli/">
+    <Project Path="ConsoleApp/DiagnosticoUSB.csproj" />
+  </Folder>
+  <Folder Name="/Core/">
+    <Project Path="ClassLibrary/ClassLibrary.csproj" />
+  </Folder>
+  <Folder Name="/Test/">
+    <Project Path="TestProject/TestProject.csproj" />
+  </Folder>
+  <Project Path="DataLibrary/DataLibrary.csproj" />
+</Solution>
