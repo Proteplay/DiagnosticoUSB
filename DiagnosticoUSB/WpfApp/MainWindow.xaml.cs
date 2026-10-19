@@ -20,7 +20,8 @@ public partial class MainWindow : Window {
             var runner = new DiagnosticRunner(new IDiagnosticCheck[]
             {
                 new RamCheck(),
-                new DiskCheck()
+                new DiskCheck(),
+                new RecycleBinCheck()
             });
 
             var results = await runner.RunAllAsync();
@@ -51,14 +52,14 @@ public partial class MainWindow : Window {
         try {
             var estimate = await row.Fix.EstimateAsync();
             var ask = MessageBox.Show(
-                $"{row.Fix.Description}\n\nSe liberarían unos {FormatBytes(estimate.Bytes)} ({estimate.Files} archivos).\n\n¿Aplicar?",
+                $"{row.Fix.Description}\n\nSe liberarían unos {ByteFormatter.Format(estimate.Bytes)} ({estimate.Files} archivos).\n\n¿Aplicar?",
                 row.Fix.Name, MessageBoxButton.YesNo, MessageBoxImage.Question);
 
             if (ask != MessageBoxResult.Yes) return;
 
             var done = await row.Fix.ApplyAsync();
             MessageBox.Show(
-                $"Liberados {FormatBytes(done.BytesFreed)}.\nBorrados: {done.FilesDeleted}. Omitidos (en uso): {done.FilesSkipped}.",
+                $"Liberados {ByteFormatter.Format(done.BytesFreed)}.\nBorrados: {done.FilesDeleted}. Omitidos (en uso): {done.FilesSkipped}.",
                 row.Fix.Name, MessageBoxButton.OK, MessageBoxImage.Information);
 
             StatusText.Text = "Solución aplicada. Vuelve a ejecutar el diagnóstico para comprobar el resultado.";
@@ -79,12 +80,6 @@ public partial class MainWindow : Window {
             .Select(d => new HistorialRow(d.Id, d.Fecha.ToString("dd/MM/yyyy HH:mm"), d.Dispositivo.Nombre, d.Resultado))
             .ToList();
     }
-
-    private static string FormatBytes(long bytes) => bytes switch {
-        >= 1_073_741_824 => $"{bytes / 1_073_741_824.0:F1} GB",
-        >= 1_048_576 => $"{bytes / 1_048_576.0:F1} MB",
-        _ => $"{bytes / 1024.0:F0} KB"
-    };
 }
 
 // Fila que se muestra en la lista de resultados
